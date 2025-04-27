@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project features a **song recommendation system** that suggests songs based on a user's mood or preference. Using a **Fine-Tuned Feedforward Neural Network (FTNN)** model, the system predicts song topics based on their lyrics and provides personalized recommendations. **Gradio** is used for interactive user input, allowing users to easily select topics and receive song recommendations.
+This project features a **song recommendation system** that suggests songs based on a user's mood or preference. Using a **Fine-Tuned Feedforward Neural Network** model, the system predicts song topics based on their lyrics and provides personalized recommendations. **Gradio** is used for interactive user input, allowing users to easily select topics and receive song recommendations.
 
 ## Process
 
@@ -20,8 +20,8 @@ During the exploratory data analysis (EDA) phase, we analyze using feature engin
 ### Model Training
 
 We trained and evaluated **three different models**:
-- **Feedforward Neural Network (FFNN)**
-- **Fine-Tuned Feedforward Neural Network (FTNN)**
+- **Feedforward Neural Network**
+- **Fine-Tuned Feedforward Neural Network**
 - **Transformer-based model**
 
 After assessing the performance of all three, the **Fine-Tuned Feedforward Neural Network (FTNN)** performed the best, with an accuracy of approximately **93%**. As a result, we chose the FTNN model to power the song recommendation system.
