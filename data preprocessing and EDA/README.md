@@ -4,3 +4,5 @@ This folder contains notebooks for preprocessing the Music Dataset: 1950 to 2019
 #### Descriptions
 
 - **music_data_preprocessing.ipynb**: Preprocesses the dataset by cleaning and tokenizing lyrics, applying label encoding, creating n-gram embeddings, visualizing topic distributions, and preparing data for model training using PyTorch.
+
+- **EDA.ipynb**: Peforms exploratory data analysis using feature engineerings, clustering and visualization to identify patterns in musical attributes and group songs into distinct clusters. 
