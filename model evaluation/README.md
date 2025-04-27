@@ -3,5 +3,5 @@ This folder contains notebooks for evaluating trained models, generating perform
 
 #### Descriptions
 - **model_evaluation_NN_v1**: Evaluation of version 1 of the lyric classification model, including key performance metrics, confusion matrix visualization, and class-wise analysis to identify strengths and weaknesses.
-- - **model_evaluation_NN_v2**: Evaluation of version 2 of the lyric classification model, including key performance metrics, confusion matrix visualization, and class-wise analysis to identify strengths and weaknesses.
+- **model_evaluation_NN_v2**: Evaluation of version 2 of the lyric classification model, including key performance metrics, confusion matrix visualization, and class-wise analysis to identify strengths and weaknesses.
 - **model_evaluation_NN_v3**: Evaluation of version 3 of the lyric classification model, including key performance metrics, confusion matrix visualization, and class-wise analysis to identify strengths and weaknesses.
