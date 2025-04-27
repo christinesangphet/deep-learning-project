@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project features a **song recommendation system** that suggests songs based on a user's mood or preference. Using a **Fine-Tuned Feedforward Neural Network** model, the system predicts song topics based on their lyrics and provides personalized recommendations. **Gradio** is used for interactive user input, allowing users to easily select topics and receive song recommendations.
+This project features a **song recommendation system** that suggests songs based on a user's mood or preference. Using a **Fine-Tuned Feedforward Neural Network (FTNN)** model, the system predicts song topics based on their lyrics and provides personalized recommendations. **Gradio** is used for interactive user input, allowing users to easily select topics and receive song recommendations.
+
+The system is trained on a dataset from Kaggle: **"Music Dataset: 1950 to 2019"**. The dataset contains a variety of songs and their corresponding lyrics, which are used to predict topics such as sadness, romance, and violence.
 
 ## Process
 
@@ -11,20 +13,20 @@ This project features a **song recommendation system** that suggests songs based
 The preprocessing stage involves cleaning and preparing the song lyrics data for model training. Key tasks include:
 - Removing irrelevant information (e.g., stopwords, special characters).
 - Tokenizing song lyrics into words.
-- Converting text data into a format suitable for machine learning, such as transforming words into numerical representations.
+- Converting text data into a format suitable for machine learning, such as transforming words into numerical representations (e.g., TF-IDF or embeddings).
 
 ### Exploratory Data Analysis (EDA)
 
-During the exploratory data analysis (EDA) phase, we analyze using feature engineerings, clustering and visualization to identify patterns in musical attributes and group songs into distinct clusters.. This helps us understand patterns in the data and ensures we address any imbalances or outliers before training the model.
+During the exploratory data analysis (EDA) phase, we used feature engineering, clustering, and visualization techniques to identify patterns in musical attributes and group songs into distinct clusters. This helps us understand the data and ensures we address any imbalances or outliers before training the model.
 
 ### Model Training
 
 We trained and evaluated **three different models**:
-- **Feedforward Neural Network**
-- **Fine-Tuned Feedforward Neural Network**
+- **Feedforward Neural Network (FFNN)**
+- **Fine-Tuned Feedforward Neural Network (FTNN)**
 - **Transformer-based model**
 
-After assessing the performance of all three, the **Fine-Tuned Feedforward Neural Network** performed the best, with an accuracy of approximately **93%**. As a result, we chose the FTNN model to power the song recommendation system.
+After assessing the performance of all three models, the **Fine-Tuned Feedforward Neural Network (FTNN)** performed the best, with an accuracy of approximately **93%**. As a result, we chose the FTNN model to power the song recommendation system.
 
 ### Model Evaluation
 
