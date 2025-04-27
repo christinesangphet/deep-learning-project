@@ -5,7 +5,7 @@ This project features a song recommendation system that suggests songs based on 
 
 ## How It Works
 ### Model Training:
-The Fine-Tuned Feedforward Neural Network (FFNN) model was trained on a dataset of song lyrics from the "Music Dataset: 1950 to 2019" from Kaggle. The model predicts topics such as sadness, happiness, romance, etc., based on the lyrics of the song.
+The Fine-Tuned Feedforward Neural Network (FFNN) model was trained on a dataset of song lyrics from the "Music Dataset: 1950 to 2019" from Kaggle. The model predicts topics such as sadness, violence, romance, etc., based on the lyrics of the song.
 
 ### Song Recommendation System:
 User Input: The user selects a mood or topic, such as "sadness."
