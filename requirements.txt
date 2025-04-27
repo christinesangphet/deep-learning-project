@@ -6,3 +6,4 @@ nltk
 inflect
 scikit-learn
 torch
+gradio
