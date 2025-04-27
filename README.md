@@ -24,7 +24,7 @@ We trained and evaluated **three different models**:
 - **Fine-Tuned Feedforward Neural Network**
 - **Transformer-based model**
 
-After assessing the performance of all three, the **Fine-Tuned Feedforward Neural Network (FTNN)** performed the best, with an accuracy of approximately **93%**. As a result, we chose the FTNN model to power the song recommendation system.
+After assessing the performance of all three, the **Fine-Tuned Feedforward Neural Network** performed the best, with an accuracy of approximately **93%**. As a result, we chose the FTNN model to power the song recommendation system.
 
 ### Model Evaluation
 
