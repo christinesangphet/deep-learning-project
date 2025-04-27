@@ -51,11 +51,3 @@ The model was evaluated using the following metrics to assess its performance:
 ### Gradio Interface
 
 The song recommendation system is built using **Gradio**, which allows users to easily interact with the model. Through the Gradio interface, users can select a mood or topic, and the system will generate five random songs that match the chosen topic.
-
-## Notebooks
-
-You can find the following Jupyter notebooks in the project folder:
-
-- **Preprocessing and EDA:** Covers the data cleaning and exploration steps.
-- **Model Training and Evaluation:** Demonstrates the training of the three models and their evaluation results.
-- **Song Recommendation System:** Provides code for implementing the recommendation system and Gradio interface.
