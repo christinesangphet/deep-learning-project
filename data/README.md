@@ -1,6 +1,6 @@
 ## Data
 
-This folder contains datasets relevant to this project's data analysis.
+This folder contains the raw Music Dataset: 1950 to 2019 from Kaggle[link](https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019/data) to perform further analyses and model development.
 
 #### Git LFS Usage
 We are using Git LFS (Large File Storage) to upload datasets, which are too large to upload to GitHub manually. Git LFS prevents the repo from exceeding file size limits by storing large files separately while keeping lightweight pointers in the repo.
