@@ -46,7 +46,7 @@ The model was evaluated using the following metrics to assess its performance:
 
 1. **User Input:** The user selects a mood or topic (e.g., "sadness").
 2. **Topic Conversion:** The selected topic is converted into a numeric label using label encoding.
-3. **Prediction:** The lyrics of all songs are passed through the trained FTNN model, which outputs a probability distribution of topics for each song.
+3. **Prediction:** The lyrics of all songs are passed through the trained Fine-Tuned Feedforward Neural Network model, which outputs a probability distribution of topics for each song.
 4. **Confidence Threshold:** Songs with a probability greater than 0.5 for the selected topic are recommended.
 5. **Fallback:** If there aren't enough songs with a high confidence score, songs from the selected topic are still recommended, even without applying the confidence threshold.
 
