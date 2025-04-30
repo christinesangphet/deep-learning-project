@@ -70,23 +70,24 @@ deep-learning-project/
 │   ├── music_data.csv
 │   └── README.md
 │
-├── modeling/                            # Model training notebooks
-│   ├── mood_prediction_NN_v1.ipynb
-│   ├── mood_prediction_NN_v2.ipynb
-│   ├── mood_prediction_NN_v3.ipynb
-│   └── README.md
-│
 ├── model evaluation/                    # Model evaluation and metrics
 │   ├── model_evaluation_NN_v1.ipynb
 │   ├── model_evaluation_NN_v2.ipynb
 │   ├── model_evaluation_NN_v3.ipynb
 │   └── README.md
 │
+├── modeling/                            # Model training notebooks
+│   ├── mood_prediction_NN_v1.ipynb
+│   ├── mood_prediction_NN_v2.ipynb
+│   ├── mood_prediction_NN_v3.ipynb
+│   └── README.md
+│
 ├── song recommendation system/          # Song Recommendation System: Code Implementation and final interface 
 │   ├── song_recommendation_system.ipynb
 │   └── README.md
 │
-├── requirements.txt                     # Project dependencies
-└── README.md                            # Main project overview and guide
+├── README.md                            # Main project overview and guide
+└── requirements.txt                     # Project dependencies
+
 ```
 
