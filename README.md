@@ -53,3 +53,7 @@ The model was evaluated using the following metrics to assess its performance:
 ### Gradio Interface
 
 The song recommendation system is built using **Gradio**, which allows users to easily interact with the model. Through the Gradio interface, users can select a mood or topic, and the system will generate five random songs that match the chosen topic.
+
+## Repository Structure
+
+
