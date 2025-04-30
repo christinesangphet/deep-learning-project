@@ -56,4 +56,37 @@ The song recommendation system is built using **Gradio**, which allows users to 
 
 ## Repository Structure
 
+Each component of the project is organized into a dedicated folder. Most folders include their own `README.md` for detailed descriptions:
+
+```
+deep-learning-project/
+│
+├── data preprocessing and EDA/          # Data cleaning and exploratory analysis
+│   ├── music_data_preprocessing.ipynb
+│   ├── EDA.ipynb
+│   └── README.md
+│
+├── data/                                # Raw data and dataset description
+│   ├── music_data.csv
+│   └── README.md
+│
+├── modeling/                            # Model training notebooks
+│   ├── mood_prediction_NN_v1.ipynb
+│   ├── mood_prediction_NN_v2.ipynb
+│   ├── mood_prediction_NN_v3.ipynb
+│   └── README.md
+│
+├── model evaluation/                    # Model evaluation and metrics
+│   ├── model_evaluation_NN_v1.ipynb
+│   ├── model_evaluation_NN_v2.ipynb
+│   ├── model_evaluation_NN_v3.ipynb
+│   └── README.md
+│
+├── song recommendation system/          # Song Recommendation System: Code Implementation and final interface 
+│   ├── song_recommendation_system.ipynb
+│   └── README.md
+│
+├── requirements.txt                     # Project dependencies
+└── README.md                            # Main project overview and guide
+```
 
