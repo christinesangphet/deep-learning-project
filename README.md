@@ -17,7 +17,7 @@ The preprocessing stage involves cleaning and preparing the song lyrics data for
 
 ### Exploratory Data Analysis (EDA)
 
-During the exploratory data analysis (EDA) phase, we used feature engineering, clustering, and visualization techniques to identify patterns in musical attributes and group songs into distinct clusters. This helps us understand the data and ensures we address any imbalances or outliers before training the model.
+During the exploratory data analysis (EDA) phase, we used feature engineering, clustering, and visualization techniques to identify patterns in musical attributes and group songs into distinct clusters. This helps us understand the data and ensures we address any imbalances before training the model.
 
 ### Model Training
 
