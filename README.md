@@ -54,7 +54,7 @@ After assessing the performance of all three models, the Fine-Tuned Feedforward 
 
 The song recommendation system is built using Gradio, which allows users to easily interact with the model. Through the Gradio interface, users can select a mood or topic, and the system will generate up to 10 random songs that match the chosen topic.
 
-Link: https://5f450278c027cde988.gradio.live/ (NOTE: (public URL expires after one week after launch)
+Link: https://5f450278c027cde988.gradio.live/ (NOTE: public URL expires after one week after launch)
 
 ## Repository Structure
 
