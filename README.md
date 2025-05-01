@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project features a **song recommendation system** that suggests songs based on a user's mood or preference. Using a **Fine-Tuned Feedforward Neural Network** model, the system predicts song topics based on their lyrics and provides personalized recommendations. **Gradio** is used for interactive user input, allowing users to easily select topics and receive song recommendations.
+This project features a song recommendation system that suggests songs based on a user's mood or preference. Using a Fine-Tuned Feedforward Neural Network model, the system predicts song topics based on their lyrics and provides personalized recommendations. Gradio is used for interactive user input, allowing users to easily select topics and receive song recommendations.
 
-The system is trained on a dataset from Kaggle: **"Music Dataset: 1950 to 2019"** (https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019/data). The dataset contains a variety of songs and their corresponding lyrics, which are used to predict topics such as sadness, romantic, and violence.
+The system is trained on a dataset from Kaggle: "Music Dataset: 1950 to 2019" (https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019/data). The dataset contains a variety of songs and their corresponding lyrics, which are used to predict topics such as sadness, romantic, and violence.
 
 ## Process
 
