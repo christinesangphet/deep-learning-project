@@ -26,8 +26,6 @@ We trained and evaluated three different models:
 - Fine-Tuned Feedforward Neural Network
 - Transformer-based model
 
-After assessing the performance of all three models, the Fine-Tuned Feedforward Neural Network performed the best, with an accuracy of approximately 93%. As a result, we chose this model to power the song recommendation system.
-
 ### Model Evaluation
 
 The model was evaluated using the following metrics to assess its performance:
@@ -40,6 +38,7 @@ The model was evaluated using the following metrics to assess its performance:
 
 - Key Findings: Best and worst performing classes identified and most frequently confused topic labels highlighted
 
+After assessing the performance of all three models, the Fine-Tuned Feedforward Neural Network performed the best, with an accuracy of approximately 93%. As a result, we chose this model to power the song recommendation system.
 
 ## Song Recommendation System
 
