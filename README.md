@@ -1,7 +1,5 @@
 # Song Recommendation System Based on Mood and Preferences
 
-### Christine Sangphet, Ann Liang, Namika Takada
-
 ## Overview
 
 This project features a song recommendation system that suggests songs based on a user's mood or preference. Using a Fine-Tuned Feedforward Neural Network model, the system predicts song topics based on their lyrics and provides personalized recommendations. Gradio is used for interactive user input, allowing users to easily select topics and receive song recommendations.
