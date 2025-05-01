@@ -38,7 +38,8 @@ The model was evaluated using the following metrics to assess its performance:
   
 - Confusion Matrix: We visualized the confusion matrix to identify where the model had difficulty distinguishing between similar topics.
 
-- Key Findings: The Fine-Tuned Feedforward Neural Network outperformed the other models by a slight margin (about 1-2%) and was selected as the final model for the recommendation system.
+- Key Findings: Best and worst performing classes identified and most frequently confused topic labels highlighted
+
 
 ## Song Recommendation System
 
