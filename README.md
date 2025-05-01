@@ -36,7 +36,7 @@ The model was evaluated using the following metrics to assess its performance:
   
 - Confusion Matrix: We visualized the confusion matrix to identify where the model had difficulty distinguishing between similar topics.
 
-- Key Findings: Best and worst performing classes identified and most frequently confused topic labels highlighted
+- Key Findings: Best and worst performing classes were identified and most frequently confused topic labels were highlighted.
 
 After assessing the performance of all three models, the Fine-Tuned Feedforward Neural Network performed the best, with an accuracy of approximately 93%. As a result, we chose this model to power the song recommendation system.
 
