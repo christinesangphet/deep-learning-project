@@ -86,8 +86,8 @@ deep-learning-project/
 │   ├── song_recommendation_system.ipynb
 │   └── README.md
 │
+├── .gitattributes                       # Git LFS tracking for CSV files
 ├── README.md                            # Main project overview and guide
 └── requirements.txt                     # Project dependencies
-
 ```
 
